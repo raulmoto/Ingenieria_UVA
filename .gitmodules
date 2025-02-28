@@ -7,3 +7,6 @@
 [submodule "IngenieriaPOO"]
 	path = IngenieriaPOO
 	url = https://github.com/raulmoto/Ingenieria_Poo.git
+[submodule "IngenieriaMatesPy"]
+	path = IngenieriaMatesPy
+	url = https://github.com/raulmoto/Ingenieria_matespy.git
