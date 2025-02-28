@@ -1,3 +1,6 @@
 [submodule "IngenieriaEstadistica"]
 	path = IngenieriaEstadistica
 	url = https://github.com/raulmoto/IngenieriaEstadistica.git
+[submodule "IngenieriaMP"]
+	path = IngenieriaMP
+	url = https://github.com/raulmoto/IngenieriaMP.git
