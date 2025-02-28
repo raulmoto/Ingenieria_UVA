@@ -1,0 +1,3 @@
+[submodule "IngenieriaEstadistica"]
+	path = IngenieriaEstadistica
+	url = https://github.com/raulmoto/IngenieriaEstadistica.git
