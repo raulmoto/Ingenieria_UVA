@@ -4,3 +4,6 @@
 [submodule "IngenieriaMP"]
 	path = IngenieriaMP
 	url = https://github.com/raulmoto/IngenieriaMP.git
+[submodule "IngenieriaPOO"]
+	path = IngenieriaPOO
+	url = https://github.com/raulmoto/Ingenieria_Poo.git
