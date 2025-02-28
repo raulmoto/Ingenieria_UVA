@@ -1,8 +1,8 @@
 # Ingeniería UVA
 
 <p align="left">
-  <a href='/Frontend Projects/01-single-page-cv/'>
-    <img width="48%" src="./assets/images/single-page-cv.png" alt="single page cv" />
+  <a href='https://github.com/raulmoto/Ingenieria_UVA'>
+    <img width="30%" src="./UVA.jpeg" alt="logoUVA" />
   </a>
 </p>
 
